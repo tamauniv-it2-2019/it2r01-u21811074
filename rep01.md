@@ -14,10 +14,10 @@
 - 2
 - 3
 
-ABCDE  
-_ABCDE_  
-__ABCDE__   
-~~AVCDE~~
+ABCDE  普通  
+_ABCDE_  斜体  
+__ABCDE__  太字   
+~~AVCDE~~  打消し線  
 
 ## 達成目標
 
